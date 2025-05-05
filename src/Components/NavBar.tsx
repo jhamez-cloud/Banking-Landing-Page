@@ -5,7 +5,7 @@ export const NavBar = ()=>{
 
     return(
         <>
-            <div className="w-full h-[50px] bg-[hsl(0,0%,100%)] flex items-center justify-center px-16 z-10 relative">
+            <div className="w-full h-[50px] bg-[hsl(0,0%,100%)] flex items-center justify-center px-16 relative z-30">
                 <div className="w-1/3">
                     <img src="/logo.svg" alt="logo" />
                 </div>
